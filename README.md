@@ -45,3 +45,4 @@ git clone https://github.com/zaarey/medical_chatbot_with_local_llm.git
 
 Pull requests are welcome!  
 
+![Alt text](medibot.png) 
