@@ -2,7 +2,7 @@
 
 > A medical chatbot that retrieves verified answers from a medical textbook using LangChain, FAISS, and a local Mistral model.
 
-## 📖 Description
+## Description
 
 This project involves creating a medical chatbot that answers healthcare-related queries by retrieving content from a locally stored, pre-processed medical book.  
 
@@ -10,7 +10,7 @@ This project involves creating a medical chatbot that answers healthcare-related
 - **What problem does it solve?** Prevents misinformation by restricting answers to a credible, offline medical textbook, while providing transparent source references.  
 - **Who is it for?** Medical students, healthcare professionals, and researchers looking for a trusted, offline, book-based Q&A tool.
 
-## 🚀 Features
+## Features
 
 - ✅ Retrieves answers strictly from a local medical book database  
 - ✅ Displays accurate source metadata (page numbers and sections) with every response  
@@ -18,24 +18,20 @@ This project involves creating a medical chatbot that answers healthcare-related
 - ✅ Uses a local Mistral model for LLM inference  
 - ✅ Simple, clean Streamlit-based user interface  
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language(s):** Python  
 - **Framework(s):** LangChain, Streamlit  
 - **Tools/Libraries:** FAISS, Sentence Transformers, Mistral LLM  
 
-## ⚙️ Installation
+## Installation
 
 ```bash
 # Clone the repository
 git clone https://github.com/zaarey/medical_chatbot_with_local_llm.git
-
-# Navigate into the project folder
-cd medical_chatbot_with_local_llm
-
 ```
 
-## 🧪 Usage
+## Usage
 
 1. Load your medical textbook as a text document  
 2. Split the text into fixed-size chunks  
@@ -45,9 +41,7 @@ cd medical_chatbot_with_local_llm
 6. Run the Streamlit app for user interaction  
 7. Query the chatbot — get verified answers along with page numbers and section details  
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome!  
-If you'd like to contribute, please fork the repo and submit a PR.  
-Feel free to suggest improvements, enhancements, or additional features.
 
