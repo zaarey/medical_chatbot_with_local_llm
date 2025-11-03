@@ -6,7 +6,7 @@
 
 This project involves creating a medical chatbot that answers healthcare-related queries by retrieving content from a locally stored, pre-processed medical book.  
 
-- **Why did you build it?** To offer an authentic, book-verified source for medical answers without relying on online APIs or paid LLM services.  
+- **Why did I build it?** To offer an authentic, book-verified source for medical answers without relying on online APIs or paid LLM services.  
 - **What problem does it solve?** Prevents misinformation by restricting answers to a credible, offline medical textbook, while providing transparent source references.  
 - **Who is it for?** Medical students, healthcare professionals, and researchers looking for a trusted, offline, book-based Q&A tool.
 
